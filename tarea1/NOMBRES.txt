@@ -1,0 +1,23 @@
+/ -----------------------------------------------/
+Vicente Illanes Ayala    ROL: 202173653-4
+
+-Implementacion inicial de programacion dinamica
+-Implementacion final de programacion dinamica
+
+/ -----------------------------------------------/
+Pablo Retamales Jara    ROL: 202173650-6
+
+-Implementacion inicial de algoritmo fuerza bruta
+-Complementacion de programacion dinamica
+-Implementacion final de algoritmo fuerza bruta
+
+/ -----------------------------------------------/
+Ignacio Trujillo Espinoza    ROL: 202173603-4
+
+-Implementacion inicial de algoritmo de fuerza bruta
+-Complementacion de programacion dinamica
+
+/ -----------------------------------------------/
+
+Los tres trabajamos de con un código compartido, por lo tanto, los tres 
+fuimos participes de los avances de ambos problemas.
